@@ -11,6 +11,8 @@ Meus objetivos futuros são trabalhar com geoprocessamento, ciencia de dados e d
 
 ![Jonathan GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanGontijo)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanGontijo)
+
 
 
 
